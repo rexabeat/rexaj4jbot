@@ -1,0 +1,21 @@
+{
+    "name": "rexa-j4j",
+    "version": "1.0.0",
+    "description": "J4J Bot",
+    "main": "rexa.js",
+    "scripts": {
+        "start": "node rexa.js"
+    },
+    "dependencies": {
+        "discord.js": "^11.6.4",
+        "express": "^4.17.1"
+    },
+    "engines": {
+        "node": "8.x"
+    },
+    "repository": {
+        "url": "https://glitch.com/edit/#!/hello-express"
+    },
+    "license": "MIT",
+    "keywords": []
+}
